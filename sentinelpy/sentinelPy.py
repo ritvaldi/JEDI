@@ -15,7 +15,7 @@ import pickle
 from PIL import Image
 # from past.utils import old_div # part of futures can remove in future as is 
 # not needed in current version
-import shapefile # handles shp file import
+#import shapefile # handles shp file import
 from scipy.ndimage import zoom # interpolation
 from skimage import draw
 import xml.etree.ElementTree as ET # XML handling
