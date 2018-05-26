@@ -102,3 +102,5 @@ ENV/
 
 # sentinel specific
 *.SAFE
+data_2/*
+
